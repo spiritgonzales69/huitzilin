@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import { SobreNosotros, Encabezado, Menu, Cocinero, Laureles, Encuentranos, Footer} from './contenido';
+import { Navbar } from "./components";
+import './App.css';
+import Galeria from './contenido/Galeria';
+
+
+
+
+const App = () => (
+  <div>
+    <Navbar />
+    <Encabezado />
+    <SobreNosotros />
+    <Menu />
+    <Cocinero />
+    <Laureles />
+    <Galeria />
+    <Encuentranos />
+    <Footer />
+  </div>
+);
 
 export default App;
