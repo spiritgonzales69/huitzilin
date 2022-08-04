@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/huitzilin/static/css/main.b6e1fb23.css",
+    "main.js": "/huitzilin/static/js/main.0c538433.js",
+    "static/media/inicio.png": "/huitzilin/static/media/inicio.d3ea0e6e1c1cd41af2bb.png",
+    "static/media/laurels.png": "/huitzilin/static/media/laurels.584a75bf34d61d16f919.png",
+    "static/media/knife.png": "/huitzilin/static/media/knife.e06bdda9a796b0e3fb70.png",
+    "static/media/overlaybg.png": "/huitzilin/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/bg.png": "/huitzilin/static/media/bg.5ea33c3b160b10f79c87.png",
+    "static/media/G.png": "/huitzilin/static/media/G.ed87709cab162393ed00.png",
+    "static/media/menu.png": "/huitzilin/static/media/menu.d2daee65b8e8a5f2a76d.png",
+    "static/media/gallery02.png": "/huitzilin/static/media/gallery02.7701ba6d04a460cd0eb3.png",
+    "static/media/gallery03.png": "/huitzilin/static/media/gallery03.7ffe8eb377f4767f25a4.png",
+    "static/media/gallery01.png": "/huitzilin/static/media/gallery01.56e2bccbc667cb974abb.png",
+    "static/media/gallery04.png": "/huitzilin/static/media/gallery04.d455c9509e046f84a29a.png",
+    "static/media/chef.png": "/huitzilin/static/media/chef.1d9641b90d6e80206c07.png",
+    "static/media/findus.png": "/huitzilin/static/media/findus.547bc1364932ac522cd6.png",
+    "static/media/sign.png": "/huitzilin/static/media/sign.0dcd9bb833ce013b54c8.png",
+    "static/media/hutzilin.png": "/huitzilin/static/media/hutzilin.110f644815b9b0cac512.png",
+    "static/media/award02.png": "/huitzilin/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/huitzilin/static/media/award05.c7c799fbfc272909ab6a.png",
+    "static/media/award01.png": "/huitzilin/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/huitzilin/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/huitzilin/index.html",
+    "main.b6e1fb23.css.map": "/huitzilin/static/css/main.b6e1fb23.css.map",
+    "main.0c538433.js.map": "/huitzilin/static/js/main.0c538433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e1fb23.css",
+    "static/js/main.0c538433.js"
+  ]
+}
